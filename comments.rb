@@ -3,5 +3,4 @@
 =begin
 This is a
 multi-line comment.
-Great for documentation!
 =end
