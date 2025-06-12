@@ -34,7 +34,7 @@ class Student
 end
 
 s1 = Student.new("Jim","Science",2.6)
-s2 = Student.new("lia","arts",3.7)
+s2 = Student.new("Lia","arts",3.7)
 
 puts s1.has_honors
 puts s2.has_honors
